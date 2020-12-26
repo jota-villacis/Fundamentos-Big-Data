@@ -1,0 +1,523 @@
+1.Fundamentos de Big Data o Macro Datos
+
+Mírian Hatibi Zagmal
+
+
+
+
+Big Data es un conjunto de datos tan voluminoso y complejo, que los sistemas tradicionales de procesamiento y análisis son inadecuados para manejarlos
+
+
+Las 3 "V" - Estrategia de Big Data exitosa
+
+-Volumen: 
+	-Datos masivos, macrodatos, inteligencia a gran escala 
+	-Gran cantidad de datos que pueden ser analizados para aportar valor a nuestras organizaciones 
+
+-Variedad: (recopilación y variedad en el tipo de datos)
+	-Todas nuestras actividades generan una gran cantidad de datos 
+	-Mayor conectividad, mayor cantidad de datos y menor tiempo para análisis 
+
+-Velocidad: (análisis)
+	-Recoger, recibir y analizar rápido, es clave en las estrategias de Big Data 
+
+** Estas secciones son necesarias y transversales dentro de toda empresa 
+
+
+
+Aplicaciones de Big Data:
+	-Politica 
+	-Investigación cientifica
+	
+** Análisis de datos y definición de estrategias  (factor humano) 
+** Una de las aplicaciones más importantes es en el mundo de la empresa 
+	-Estrategia en innovación digital
+** Las empresas que entiendan el Big Data generaran mas valor añadido y las que no están destinadas a desaparecer por no conseguir tanta eficiencia en los recursos 
+
+
+
+Variedad de Datos:
+	-Datos estructurados:
+		-Ya han sido clasificados en base al estándar de la empresa, para poder ser usados en cualquier momento y en base a nuestras necesidades
+	-Datos no estructurados:
+		-Son de los que disponen la mayoría de empresas y que a veces no son utilizados
+		ejemplos > Facturas, tickets, email, llamadas, notas y observaciones en formularios de pedidos 
+		
+Es importante que la mayoría de datos que se tienen pasen a ser datos estructurados, analizando aquellos que se pueden disponer como organización para decidir cuales nos pueden ser más útiles
+
+
+Volumenes de Datos:
+	-Grandes cantidades de datos nos permiten analizar mejorar el contexto de nuestra empresa, incluso conocer mejor a nuestra actividad
+	-Disponer de buena tecnología capaz de analizar grandes volúmenes, para que la cantidad no sea un obstáculo si no una ventaja
+	
+Velocidad:
+	-En un mercado cambiante constantemente la velocidad de recogida es importante, pero aún mas importante es la velocidad de análisis
+	-Análisis de tiempo de gestión por cliente, permite que se vayan mejorando los procesos y seamos mas conscientes del resultado de determinadas acciones o las expectativas que poner en ellas
+	
+** La aplicación de Big Data tendrá que depender siempre de la situación en la que se encuentra la empresa y los recursos tanto económicos como humanos de los que dispone 
+
+** Todas las empresas pueden aplicar estrategias con el análisis de datos que más adelante pueden ser escalables a otros volúmenes 
+
+
+
+Inteligencia Artificial (Permite analizar gran cantidad de datos)
+	- IA != Big Data 
+	-La inteligencia artificial no necesariamente se aplica a procesos Big Data
+
+** La IA aprende de los inputs de los humanos que la crean, para ser capaz de resolver casos para los cuales se les ha programado anteriormente
+	-Este aprendizaje se lleva a cabo mediante algoritmos que ayudaran a la maquina a tomar ciertas desiciones 
+
+IA:
+	-Maquinas capaces de entender lo que pasa a su alrededor 
+	-Realizar procesos que antes hubiesen hecho humanos 
+	
+Machine Learning:
+	-IA avanzada, capaz de realizar aprendizaje propio
+
+
+
+Aplicaciones de Big Data:
+	-Evolucionan según la necesidad de la sociedad y las organizaciones (Es importante la creatividad de las personas que ponen estas estrategias en practica)
+
+** Todos los datos no se pueden aplicar de una forma general, sin tener en cuenta un parámetro muy importante  que pone en perspectiva tanto la información como las conclusiones
+
+Tiempo:
+	-Ese gran volumen de información  recogida se enmarca en un punto determinado del tiempo. Por lo que con los datos, un punto determinado en el tiempo y un buen análisis, podemos entender el pasado, el presente y el futuro
+	
+Pasado:
+	-Para entender el pasado, se necesita recoger todos los datos que podemos y establecer relaciones entre ellas, aunque a primera vista no pueda parecer util. Al hacer esto se podrán entender relaciones y causalidades que en un principio no parecían estar ahí
+	
+Presente:
+	-Los avances tecnológicos nos permiten recoger y analizar gran cantidad de datos en tiempo real, lo que a su vez nos permite implementar procesos de mejoras (predictivo), así a tiempo real vemos las consecuencias de nuestras decisiones o como esta funcionando una estrategia
+	
+Futuro:
+	-Predecir el futuro o al menos disponer de una previsión más o menos certera sobre lo que podría ocurrir
+
+
+
+Departamento de Marketing
+	-Se ve beneficiado de sus avances
+
+** Internet ha permitido que recojamos grandes cantidades de datos, que nos permiten mejorar las estrategias de marketing
+** La cantidad de datos nos permite contrastar, comparar y complementar los datos de los que disponemos
+
+** Velocidad, volumen, veracidad (Big Data)
+Velocidad > recoger, analizar en tiempo real
+Volumen > cantidad de datos
+Veracidad > A diferencia de encuestas donde las personas pueden ser involucradas a cierto tipo de respuestas, la recogida de datos actual se hace de forma natural, y especialmente a través de acciones reales que ya han realizado
+
+** Todos estos datos son los que permiten  analizar el comportamiento del usuario o consumidor, tanto a nivel individual como a nivel agregado, es decir, abalizando una media para conocer el tipo de consumidor. Una vez conocido el comportamiento, se puede ir más allá y segmentar los consumidores para mejorar la estrategia
+
+Cuando hablamos de Big Data y sus aplicaciones dentro de una empresa, uno de sus grandes olvidados suele ser la logística
+	-Las mejoras en las cadenas de suministro que pueden tener lugar, gracias a la optimización de procesos utilizando Big Data pueden ayudar a reducir los costes considerablemente aumentando por lo tanto los beneficios de una organización
+
+Se deben considerar las 3 "V" (variedad, veracidad y volumen):
+	-La variedad de datos que podemos recoger y las relaciones que podamos establecer entre ellos, nos darán mucha información de como podemos mejorara las cadenas
+
+La variedad de los datos, al tomar la mayoría de ellos, a través del trabajo real, nos permitirá hacer un cálculo basado en la observación empírica y no solo en predicciones
+
+Finalmente, el volumen, permitirá que tengamos los suficientes datos para que las decisiones estén basadas en un número razonable de observaciones y no las hagamos sesgadas tomando solo algunos casos como referencia 
+
+Recoger y almacenar datos para tomar desiciones de una forma efectiva es uno de los grandes retos a la hora de incorporar Big Data en logística 
+
+La cadena de suministros genera una serie de datos de forma natural que se suelen olvidar y no tener en cuenta
+
+-Datos Internos:
+	-Generados por nosotros (empresa) --> (Tiempo de almacenaje, tiempo de entrega, cantidades transportadas por viaje, etc. ) 
+-Datos Externos:
+	-Aquellos datos que podemos saber incluso antes de empezar la actividad 
+
+Todo lo anterior permite identificar los factores positivos y negativos en cada paso de la cadena de suministro y nos permite ver donde esta el "bottleneck" (cuello de botella) (La fase de la cadena donde se esta perdiendo más eficiencia)
+	-Podemos anticipar las demandas y necesidades del mercado, evitando clientes descontentos con nuestro servicio (por ejemplo evitando falta de stock, quiebre o compras que no lleguemos a generar)
+
+Todo esto cobra sentido cuando cruzamos datos con otros departamentos como ventas y marketing  y las tareas se coordinan para llegar al máximo de eficiencia 
+
+Uno de los mayores beneficios del uso de Big Data es la reducción de costos directos a través de la información de la que se dispone 
+
+
+
+En el caso de los Recursos Humanos:
+	-En este departamento las personas y sus capacidades deben estar en el centro
+		-Los datos permiten colocar de mejor manera esas personas dentro de nuestra estructura
+
+Cuanto más grande sea la empresa y más tiempo lleve recogiendo datos, más útil le será el Big Data, porque podrá comparar con períodos anteriores y establecer patrones de comportamiento, llegando a preveer que perfiles funcionan mejor en que posiciones
+	-Para eso es necesario que los equipos de recursos humanos sean capaces de trabajar con Big Data, recoger aquellos que sean útiles, necesarios  y aprender a analizarlos según las preguntas que se tengan (Cuando contratar?)
+	
+Adelantarse  a las necesidades de la empresa y del equipo
+	-A quién contratar?
+	-Cómo contratar?
+
+** En el equipo es necesario realizar estas preguntas:
+	-Son felices mis colaboradores?
+	-Podría hacerlo mejor?
+	-Qué papel tiene cada uno dentro del día a día de la empresa?
+
+Se deben recoger los datos de forma periódica y poder establecer tendencias en el tiempo y analizar patrones de mejora o emprendimiento, sabiendo que factores podrían haber llamado a esos cambios
+
+El principal punto de mejora es la alineación entre las universidades y el mercado actual
+
+El Big Data tiene el potencial para poner en marcha estrategias innovadoras y eficientes
+
+Se debe tener formación orientada a la decisión basada en datos o "data driven" 
+
+Reducción de costes y mejora de la eficiencia, permite que la organización se centre en otras actividades
+
+A día de hoy se deben dedicar los esfuerzos a pensar en como ampliar la Base de Datos y ya no en como mantenerla
+
+Para que los avances sean posibles, serán necesarios mejoras en la IA y mejoras en los algoritmos
+	-Permitiendo analizar datos que sean cada vez más complejos y completos
+	
+Personas  --> Preocupación de que se hace con sus datos!
+	-Que datos nos están dando y qué hacemos con ellos
+	
+Veremos cada vez más los datos en el centro del diseño de todas las estrategias
+
+¿Qué datos hay que recoger? ¿Qué voy a hacer con esos datos?
+
+
+
+Big Data en el día de la empresa
+
+¿Cómo se pone en practica dentro de una organización que aún no tiene una estrategia de este tipo?
+
+5 FASES:
+	-Recogidas de datos, análisis de datos, visualización de datos, toma de decisiones y evaluación de la estrategia 
+
+1.- Recoger Datos (Cual es el objetivo de recoger datos)
+	-Estrategia de recogida de datos
+		-Recoger datos por primera vez o recoger datos antiguos que ya teníamos y a los que no habíamos dado uso
+
+2.-Análisis de Datos
+	-Los datos se pueden analizar en un momento puntual
+	-Podemos entender el análisis de datos como algo constante y en tiempo real (prácticamente)
+	
+3.-Visualización de Datos
+	-Realizada en forma de presentación, informe o memoria, permitirá coordinar reuniones en las que presentar los datos y el análisis de forma sencilla, clara y directa
+
+4.-La cuarta fase en si misma, el objetivo de una estrategia de Big data (La toma de decisiones)
+
+Con los datos recogidos, analizados y visualizados tendremos que decidir que acciones se deben tomar y cómo se pueden manejar
+
+5.-Evaluación en estrategia (Reflexionar sobre los que hemos conseguido)
+
+Problema que se da al usar  Big Data y analizar el pasado
+	-No disponer de los datos necesarios para este análisis 
+	
+Es importante antes de empezar una estrategia preguntarse 
+	-Qué nos interesará saber en el futuro?
+
+Se pueden generar preguntas sobre el pasado, que solo se pueden responder con una buena estrategia de análisis de datos, lo cual deberá estar bien definida desde el primer momento
+
+La eficiencia de una estrategia es más alta cuanto antes y mejor se empiece 
+
+Entender el pasado nos ayudara a entender nuestras estrategias futuras y a identificar errores que podemos haber cometido o buenas practicas que hayamos tenido
+
+El Big Data en conjunto con la IA nos permite realizar este análisis en tiempo real y obtener resultados útiles al momento
+	-Para esto se debe haber establecido patrones y parámetros que nos permitan recibir la información que nos interesa y visualizarla de la forma más efectiva posible
+
+Disponer de esta información correctamente filtrada y lista para utilizar en tiempo real es útil especialmente cuando tratamos temas delicados o eventos de una duración muy limitada, en los que esperar demasiado a tener un análisis completo, podría hacer que ya no estuviéramos a tiempo de tomar una decisión 
+
+Analizar los datos en tiempo real nos dará capacidad de reacción ante cualquier situación y nos permitirá actuar cuando todavía estamos a tiempo de remediar o reducir el daño
+
+Nos permitirá incorporar formas de mejorar una estrategia o un plan de actuación antes de haberlo terminado 
+
+Para que el análisis sea eficiente, se necesita que las personas que están enfrente entienden tanto el proyecto como la importancia de los datos y así hacer la relación entre los 2 y aprovechar todo el potencial
+
+Previsiones sobre el futuro
+	-Permitirá estar más preparado para entender lo que puede pasar y tomar decisiones en base a ello
+	-Una forma de hacerlo es el estudio de lo que ha pasado y los datos que ya tenemos registrados
+
+Predecir Tendencias
+	-Evaluación de ventas (patrones)
+	-Factores que condicionan las ventas
+	-Cruzar datos de formas distintas
+
+Otra forma de realizar este análisis es mediante la monitorización de las opiniones volcadas en las redes sociales 
+	-La monitorización online permite realizar análisis predictivo
+
+Se debe tener en consideración factores externos al momento de realizar predicciones
+
+
+
+
+Tipos y Fuentes de Datos
+
+Una de las partes más importantes del Big Data y de las que dependerá el éxito de la misma es la recogida de datos
+
+El coste de la estrategia y su eficiencia, se vera afectado por el momento y modo en que lo hacemos 
+	-La mas costosa es a posterior, lo que implica recoger datos históricos
+		-Redes sociales (costosas, por pago de empresas especializadas)
+		-Datos demográficos, la recogida es costosa, ya que se pierde información y, por tanto, eficiencia al no tener exactamente los datos que necesitamos y tener que depender de datos precisamente configurados
+
+Obtención de Datos
+	-Para qué queremos los datos?
+		-Permite que si no se encuentran los datos necesitados, encontrar formas alternativas para llegar a la misma información o una información igual de útil
+		
+**Una vez pensando para qué queremos los datos, necesitamos pensar en qué datos necesitamos para llegar a ese objetivo
+
+	-El siguiente paso es el coste y rentabilidad 
+		-Decidir cuánto estamos dispuestos a pagar por estos datos o si estamos dispuestos a pagar?
+			-Dependerá de la rentabilidad que esperamos sacar de ellas 
+
+Si hablamos de datos demográficos, la mayoría están disponibles de forma abierta en las páginas oficiales del gobierno del país que nos interese
+
+Otros tipos de datos los podemos encontrar con empresas privadas
+
+Por ultimó "Legalidad y ética"
+	-Lo legal no siempre será ético 
+	-Las posibilidades que ofrece el Big Data tiene muy pocas limitaciones pero se deben pensar, para garantizar que el crecimiento de la empresa no está comprometiendo otros aspectos, como la legalidad o la reputación
+
+¿Cómo decidir que fuente de datos es mejor para mi organización y mis necesidades?
+
+ Clasificación de los datos par escoger mejor
+	-Tipos de datos (actividad, texto, voz, imágenes o video)
+	-Origen de los datos
+		-Internos (datos recogidos por nuestra empresa)
+		-Externos (no dependen de la empresa(cedidos o comprados))
+
+Si las fuentes de datos son públicas y gratuitas o por el contrario, de pago o privadas
+
+También se deben tener en cuenta la diferencia en la velocidad de obtención y el análisis de datos 
+
+**Todas las diferencias vistas se deben poner en común con el tipo de análisis que queremos realizar y la inversión que tenemos prevista, para optimizar costes y conseguir el máximo de eficiencia con una fuente determinada de datos
+
+Una estrategia de análisis de datos completa combina diferentes tipos de fuente
+	-Las ventajas de recoger datos internos son muchos, pero la principal sería la reducción en el coste de obtención de datos 
+	-El acceso a la información puede ser más rápido 
+	-La comunicación rápida y el bajo coste, se traduce en flexibilidad de recogida de datos
+	-La desventaja de la recogida de datos interna son sus limites 
+		-En una primera fase, el límite estará en la capacidad de nuestro equipo de recoger los datos, ya que son datos sin filtrar y la calidad de ellos dependerá de cómo se realizará esta tarea 
+	-También se deben tener en cuenta las limitaciones legales
+
+**Depender de datos externos en bases ya creadas no nos permiten intervenir en como se crean y, sobre todo, qué datos incluyen 
+
+**Datos externos nos pueden dar más información sobre la competencia o sobre el sector    
+
+Ejemplo de análisis de fuentes externas:
+	-Variación en el precio de un producto a lo largo de los años
+		-Los datos internos podrían darnos información sobre nuestros propios precios, pero solo al analizar los datos externos podremos ver dónde os situamos dentro del mercado y compararnos con nuestros competidores más directos
+
+Considerando las ventajas y desventajas, se debe valorar el tipo de estrategia que necesitamos.
+En algunas ocaciones podemos necesitar más de una fuente externa de datos y tendremos que equilibrar los costes, tanto económicos como en tiempo que destinamos a cada proveedor. Así se conseguirá no superar el presupuesto marcado y no perder eficiencia en la diversificación de las fuentes. Si utilizamos más de una fuente, también será importante que a nivel interno seamos capaces de cruzar los datos
+	-Así no pasaremos por alto detalles y relaciones que pueden ser importantes para mejorar como organización 
+
+**LOPD ---> Ley Oficial de Protección de Datos**
+
+Fuente publica destacada
+	-Portal de datos abiertos de la unión europea
+	-Portal de datos abiertos de EE.UU.
+	-Institutos nacionales de estadísticas de los diferentes países
+	-Datos de la organización de las naciones unidas (UNDATA)
+	-Banco mundial
+	-Fondo monetario o internacional 
+	-Amazon
+	-Facebook
+	-Wikipedia
+	-Google
+
+Qué datos buscamos?
+Cómo nos dan los datos? (filtrados o sin filtrar)
+
+Se pueden acumular cualquier tipo de datos, hay empresas que se especializan en un tipo de dato
+
+Cómo se presentan los datos?
+	- Informes
+	- BD
+	- Plataforma
+
+Obtener datos de forma periódica, minimiza la acumulación de errores, especialmente para hacer comparativas validas en el futuro 
+	- Contar con una empresa privada garantizara un acompañamiento profesional en toda la estrategia 
+
+Minería de Datos (Data Maining)
+	- Proceso mediante el cual exprimimos los datos (deshacernos de lo que no nos interesa y extraer en valor de los que si)
+	- Poder ver patrones en  nuestra BD para después diseñar algoritmos que nos permitan trabajar con ellos
+	- Aquellos procesos y técnicas a través de los cuales podemos entender las grandes BD y sacarle provecho para encontrar los patrones que nos permitan entender el presente, el pasado y predecir el futuro
+
+Minería de Datos == Detección de patrones, la visualización será clave para poder tener delante patrones que puedan ser de interés 
+
+¿Qué diferencia hay entre Big Data y minería de datos?
+	- La minería de datos se centra en el análisis para obtener una respuesta o información concreta (a través de la BD)
+	- La minería de datos es la que realmente permite sacar provecho al Big Data 
+		- La minería de datos combina información en la BD (estadísticas, IA, procesamiento masivo y otros avances tecnológicos 
+			- Permite ofrecer información útil y fiable
+
+De la minería de datos derivan otros tipos de procesos más específicos como "web mining"
+	- Web Mining == Entender el patrón de comportamiento de clientes dentro de una página web
+	- Text Mining == Se especializa en el análisis y categorización de textos
+
+Es necesario que el análisis a una puesta en marcha se haga con mucho rigor
+
+Al aplicar Minería de Datos podemos hablar de 2 métodos 
+	- Método descriptivo == entender pasado o presente
+		- Análizar información de la que disponemos, con el objetivo de describir lo que ahí se recoge 
+			- Clausterización (a través de la cual se establecen grupos dentro de una misma BD) 
+	- Método predictivo == uso de minería de datos para intentar saber lo que pasara en el futuro 
+		- Técnicas como regresión, para basarnos en datos actuales y hacer predicciones sobre lo que pasará en el futuro
+
+Data Mining 
+	- Es un proceso y por tanto las técnicas que se utilizan para poner en marcha esta tecnología serán en parte las diferentes fases de este proceso
+
+1. Establecer o definir objetivos
+	- Cuales son las preguntas a las que queremos dar respuesta
+2. Pre procesamiento de los datos
+	- La fase que más tiempo ocupa, seleccionar aquéllos datos que si son de nuestro interés y después categorizarlo de la forma que mejor haya a funcionar 
+3. Determinar el modelo (parte central, pura minería de datos)
+	- Es de ayuda un equipo multidiciplinar, que permita un enfoque más global de todo el proceso y que le de el sentido estratégico necesario pero también el rigor matemático y científico así como la posibilidad de resolver las necesidades tecnológicas que puedan aparecer 
+4. Análisis de resultado
+	- Permite obtener las respuestas a las preguntas planteadas en la primera fase
+	- Este análisis también permitira ver si hay posibles "outliers" o desviaciones en el patrón que tengan que estar explicadas por fallos en la gestión, incluso por posibles fraudes
+
+¿Cómo formular las preguntas que los datos nos van a poder responder?
+
+	- Deben ser preguntas muy concretas a diferencia de Big Data que es mas genérico
+
+Minería de Datos
+	- Patrones de comportamiento
+	- Patrones que hay en el presente o incluso datos relativos al pasado, para poder hacer predicciones sobre lo que probablemente ocurra en el futuro, si se vuelve a dar el mismo contexto
+
+Es muy importante tener en cuenta esto, ya que la minería da datos no predice lo que pasará en el futuro en general sino, lo que podrá pasar si se vuelve a dar el mismo ejemplo, bajo las mimas condiciones, o al menos, más condiciones aproximadas 
+
+Ejemplo: Preguntas basadas en minería de datos
+
+	BD: Donde se recogen los siguientes aspectos
+	-  Población de un país
+	- Indice de pobreza
+	- Indice de desigualdad
+	- Tasa de educación
+	- Esperanza de vida
+	- PIB por cápita 
+
+Qué relación hay entre el indice de pobreza y la esperanza de vida?
+	- Si una cambia como cambiara la otra?
+
+Políticas publicas dirigidas a mejorar a mejorar un indicador a través de otro
+Se puede saber qué ha pasado cuando no ha bajado el indice de pobreza
+
+Minería de Datos
+	- Una forma muy sofisticada, de entender, de forma holística lo que pasa a nuestro alrededor, para tomar decisiones más fundamentadas
+
+Las preguntas que realicemos deben estar muy enfocadas a entender las relaciones entre diferentes datos para intentar saber el porqué de las cosas
+
+*Big Data e IA reducirán casi el 60% de los empleos (trabajos mecánicos y repetitivos)
+
+Las capacidades que se requieren
+	- Analítica
+	- Visión estratégica 
+
+Preparación de las empresas
+	- Captar talento (formando equipo interno o contratando gente ya formada)
+	- Contratar un equipo externo (empresa especializada)
+		- Debe conocer como funciona el Big Data y la realidad del negocio 
+
+Profesionales de Big Data
+- Data Scientist (contacto directo con el proceso de innovasión)
+	- Tiene que saber trabajar con diferentes fuentes y usar la tecnología disponible para ordenarla y analizarla
+	- Encargado de que los datos sean analizados dentro de nuestra empresa
+	- Encargado de crear las estructuras necesarias para que los datos sean recogidos y analizados
+	- Se encarga de de la recogida de datos, su limpieza, su clasificación y en muchos casos, también su visualización 
+
+Profesión que junta la tecnología con un factor algo más estratégico y creativo orientado a ofrecer soluciones prácticas dentro del mundo empresarial
+
+Casi toda organización necesita incorporar su propia tecnología de análisis de datos aunque solo sea para analizar sus datos internos sin depender de nadie externo
+
+- Data Analyst
+	- Perfil flexible y piedra angular dentro de la empresa
+	- Une el departamento de Big Data (de existir) con el resto de la empresa, si no existe es la persona encargada de enlazar un proyecto de análisis de datos masivos con el resto de la empresa
+	- Uso de herramientas como Excel, SQL, matemáticas, estadísticas y capaz de utilizar bases complejas 
+	- Poder extrapolar conclusiones a partir de los datos que se observan y poder tener una visión que pueda aportar un valor añadido al plan estratégico de la organización
+	- Capacidad de analizar también también el contexto que lo rodea para poder poner lo que está estudiando en el centro de algo más global y no aislarlo de lo que está pasando 
+	- Debe estar pendiente de los cambios que se puedan producir y ver cuando es la mejor forma de aplicarlo en su campo de trabajo
+
+*El mejor analista de datos lo forma un equipo, que los miran con perspectivas diferentes y que pueden sacar diferentes conclusiones de los mismos datos
+
+- Data Strategist
+	- Labor similar al de un analista de datos, pero en su caso, da respuesta a la fase final del proceso del Big Data
+	- Tiene capacidad analítica y soltura a la hora de entender datos, pero por sobre todo, tiene mucha creatividad y visión estratégica de forma, que a partir de la realidad observada puede ir más allá y tomar decisiones de mejora que a simple vista puede no parecer obvias 
+	- No necesariamente encontrará los modelos que se puedan derivar de los datos ni establecerá patrones de regresión. Pero si el Data Scientist se las muestra, tendrá la capacidad para a partir de esa información y procurar mejorar los indicadores a través de la innovación empresarial
+	- Su formación será de carácter empresarial y de organización, por lo que podrá establecer el modelo de negocio óptimo y las posibles mejoras a través de los datos
+	- Es importante que este en constante contacto con el resto del equipo y se le informe de tanto detalle como sea posible
+	- Contacto directo con el cliente final, permitiéndole percibir las necesidades reales del mercado
+	- También se le implicará en la fase inicial de definición de la estrategia Big Data a seguir 
+
+*El trabajo que puede requerir el análisis de datos implica que pueda estar perdiendo creatividad y perspectiva para después poder derivar una estrategia empresarial a partir de los datos observados
+
+Por un lado el Big Data abre un mundo de posibilidades que facilitan la optimización de recursos aunque por otro, abre problemas que no habían sido tan evidentes
+
+A la hora de arrancar procesos de selección, teniendo en cuneta las necesidades del marcado y las perspectivas de futuro para evitar cargar de costes nuestra estructura y después no poder asumirlos
+
+Es importante saber equilibrar los perfiles para sacar provecho a la estrategia y teniendo en cuenta el sector en el que trabajamos y el tipo de estrategia que tenemos intención de poner en marcha, buscaremos a las personas que puedan tener una mejor comprensión global de lo que estamos poniendo sobre la mesa 
+	- Esto significa que no solo nos vamos a fijar en los perfiles individuales que vayamos a incorporar o incluso los que ya tenemos incorporados, si no en como podrían trabajar estos perfiles en conjunto y sobre todo, qué valor añadido pueden aportar al trabajar juntos dentro del mismo proyecto
+
+Quizás una forma de obtener datos menos costosos, nos requiera mayor esfuerzo en la gestión del personal y viceversa
+
+
+
+Transformación Digital 
+	- Introducción de cambios en la forma de trabajar y organizarse de una empresa, dirigidas a incorporar tecnología que agilice y haga más eficiente la forma de trabajar
+	- Cuando hablamos de transformación digital no hablamos solo de la incorporación de tecnología, sino de cambios en la forma de trabajar en el día a día, incluso en la forma de entender la empresa
+
+- De analógico a digital
+- Incorporación del internet de las cosas y el big data
+- Incorporación de la digitalización en el ADN de la empresa y colocación en el centro
+	- Facilita proceso dentro de la empresa y se valora positivamente por los clientes
+
+La transformación digital se puede adaptar a los recursos de la empresa (económicos y humanos) y no es solo una opción , sino una necesidad 
+	- Debe ser continua en el tiempo e ir mejorando
+
+En la gestión de recursos humanos , tendremos que mirar quienes son las personas que componen nuestro equipo humano
+	- Si no tienen la formación o el conocimiento necesarios para planear y ejecutar esta estrategia, tendremos que centrarnos en invertir en formación o externalizar esta parte
+
+El proceso de transformación digital deberá ser un proceso que conozca todo el equipo y donde todos deben participar. No solo deberán saber que hay un proceso como este en marcha, sino también saber cuál es el objetivo de tal proyecto y cuáles serán los cambios que se podrán en practica 
+
+Plantear todas las necesidades que tenemos, analizar las tecnologías disponibles, también las gratuitas, y decidir hacia donde dirigimos nuestra inversión
+
+Cuales son las necesidades para las que buscamos una respuesta dentro de nuestra propia compañía
+- Hay 2 tipos de necesidades hacia las que debemos mirar antes de plantear la transformación digital dentro de nuestra empresa
+	- Las necesidades internas de nuestra empresa
+*Enfocada a solucionar aquellas fallas que hemos podido observar a lo largo del tiempo o a mejorar aquello en lo que se puede ganar eficiencia
+	- Ejemplo: Mejorar a través de la visualización de datos
+		- Las herramientas actuales permiten visualizar datos de una forma dinámica e interactiva a diferencia del clásico informe excel 
+		- Esto permitirá mejor entendimiento y reuniones más ágiles y enfocadas en plantear soluciones, propuestas y no solo a entender gráficas 
+
+Por otro lado las necesidades reales del mercado
+	- Qué esperan nuestros consumidores de nosotros?
+*Saber plantear las preguntas necesarias para llegar a una respuesta útil
+*Tomar todo acto cotidiano como una oportunidad de mejorar e innovar para esas mejoras sean tan rápidas como sea posible
+*La transformación digital tiene que estar siempre dirigida a mejorar la experiencia del usuario y esto se da muchas veces en mejoras en nuestra empresa
+
+Big Data == Incorporación de procesos de cambio a través de los datos
+	- En la transformación digital permite ser más eficiente en la toma de decisiones
+		- Cada vez que se vaya a tomar una decisión, antes se verá si esta fundamentada con datos. Una vez tomada se tendrá que analizar la forma de hacer seguimiento de resultados, a través de la recogida y análisis de datos
+		- Todo el equipo tiene que ser conciente de la nueva forma de trabajo e incorporar el análisis de datos y su recogida, en todos los departamentos 
+
+*El Big Data abre la oportunidad de que las empresas abarquen nuevos modelos de negocio o que entiendan los modelos de negocio tradicionales de una nueva forma
+	- Abre la posibilidad de mejorar la estrategia constante, de forma que el modelo de negocio se centra mucho en un aprendizaje continuo 
+		- Mejorar la estrategia cuando el Big Data ofrece la posibilidad de recibir información sobre los usuarios en tiempo real y por tanto nos permitirá adaptar mucho mejor a sus necesidades y su comportamiento
+
+También se puede mejorar la estrategia, al conocer mejor la competencia y el análisis de datos públicos nos permite hacer esto
+
+Un segundo aspecto a considerar es la posibilidad de vender datos
+	- LA venta de datos a terceros, siempre tiene que estar dentro de los marcos de la legalidad
+
+Preveer resultados
+	- Ejemplo: Elecciones
+
+¿Qué tipo de información podemos obtener incluyendo la estrategia de Big Data dentro de nuestra organización?
+	- Entender mejor nuestros consumidores y su experiencia de compra o consumo, de forma que veremos detalles, que de otro modo serian imposibles
+	- Entender mejor el mercado en el que nos movemos ya sea por zona geográfica o por sectores
+	- Permite observar las tendencias o las modas basándonos en lo que los datos dicen
+
+Qué nos permite el Big Data?
+	- Obtener información sobre la competencia
+	- Analizar y aprender de sus buenas practicas o de los errores para poder descubrir y explotar oportunidades de mercado
+	- El análisis de datos permite observar la propia eficiencia 
+
+El análisis de datos internos nos puede ayudar a ver qué errores estamos cometiendo en nuestros procesos o dónde está nuestro cuello de botella
+
+Decidir como aplicar el Big Data a tu propio negocio
+	- Conocer bien la organización y las personas que la componen 
+	- Planificar la inversión, saber con que recursos contamos 
+	- Buscar nuestras necesidades y las del sector, para ver bien en que nos puede ayudar el análisis de datos y que no ha sido satisfecho antes
+	- Analizar la competencia 
+
+Se debe tener un plan de acción muy claro, con inicio desarrollo y fin, que puede ser flexible y que puede ir combinando y aprendiendo de errores pero, sobre todo no podemos empezar con la idea de improvisar por el camino
